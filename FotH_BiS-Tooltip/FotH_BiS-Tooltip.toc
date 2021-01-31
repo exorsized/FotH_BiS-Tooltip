@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: FotH - BiS Tooltip
+## Notes: Item Tooltipbe irja, hogy milyen spec-re BiS, FotH lista alapjan
+## Author: Exorsized
+## Version: 1.0
+## Dependencies: 
+## X-Category: Interface Enhancements
+
+FotH_BiS-Tooltip.lua
+FotH_BiS-Tooltip.xml
